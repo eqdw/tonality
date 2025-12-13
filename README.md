@@ -68,6 +68,10 @@ can find yourself having trouble keeping track of what the current context is, a
 pattern of notes might play. In order to reset the pitch and rhythm from its current context back to
 default, you can include the empty note `O`. This note has no sound or duration, it simply resets the context
 
+The empty note can be rhymically or melodically modified, the same as any other note, to set a new
+default context that the following notes are relative to. For example, `O,,` would make the notes that follow be
+a deep bassline, and `O16` would make the notes that follow default to sixteenth notes
+
 ### Multiple Voices
 
 To play multiple tones simultaneously, a polyphony block is used, with the syntax `[ / ]`.
