@@ -19,7 +19,7 @@ is used to generate other scale tones relative to Concert A
 
 A melody can be specified with scale letters as follows:
 
-`A B C D`
+` A B C D `
 
 By default, every note is the same length as the note prior to it, and the smallest interval is chosen.
 In the case of the above example, this is a rising riff, because the B above an A is closer than the one below it
@@ -30,7 +30,7 @@ To specify a different octative than would be defaulted, use `,` to lower it and
 
 
 Notes can have a duration specified, it works just the same as sheet music. A number concatenated to a letter
-name specifies it's length (`1` for whole note, `2` for half note, `4` for quarter note, etc). Additionally, `.` dots work
+name specifies it's length (1 for whole note, 2 for half note, 4 for quarter note, etc). Additionally, dots work
 as they do in sheet music, extending a note's duration by 1/2 its length (eg `A2.` would be the same length as `A2 A4`)
 
 You can specify the time signature with the following command, that sets the specified note to the specified
@@ -44,7 +44,7 @@ An `R` denotes a rest, and otherwise functions the same as a note
 
 ### Accidentals
 
-Accidentals work as they do in sheet music. Concatenating a `#` makes a note sharp, and concatenating a `b` makes it flat.
+Accidentals work as they do in sheet music. Concatenating a # makes a note sharp, and concatenating a b makes it flat.
 
 You can specify a key signature as so. Doing so will cause all of the specified notes to be played, by default,
 sharp or flat as specified.
@@ -70,8 +70,8 @@ default, you can include the empty note `O`. This note has no sound or duration,
 
 ### Multiple Voices
 
-To play multiple tones simultaneously, a polyphony block is used, with the syntax `[ / ]`.
-The `[ ]` square brackets denote the presence of parallel voices, and the `/` separates each.
+To play multiple tones simultaneously, a harmony block is used, with the syntax `[ / ]`.
+The square brackets denote the presence of parallel voices, and the `/` separates each.
 This can be arbitrarily nested, which is useful for things like pianos, guitars, and any other instrument
 that can play chords. For example, consider a piano piece where the right hand plays a melody, and the left
 hand plays backing chords. You might notate it as follows:
@@ -112,7 +112,7 @@ the longer parallel voice is still playing. This is almost certainly not what yo
 There are multiple ways to score the same voices playing the same rhythms and tones, and Tonality Composer
 does not mandate a 'correct' way to do it. In my experience, I have found that trying to match
 the organizational layout of standard sheet music is usually preferable. So, if you were trying to transcribe
-a concert band piece, you might create a top-level polyphony block and have one section for each voice:
+a concert band piece, you might create a top-level harmony block and have one section for each voice:
 
 ```
 { Some Concert Band Piece}
@@ -136,12 +136,12 @@ a concert band piece, you might create a top-level polyphony block and have one 
 ```
 
 I have found it useful, for pieces with many voices, to separate the piece into sections
-for organizational purposes. If one uses one giantic top-level polyphony block, it can be difficult
+for organizational purposes. If one uses one giantic top-level harmony block, it can be difficult
 to ensure that all of the voices stay synchronized and no typos are made. I have found that
-in such songs, it makes sense to have separate top-level polyphony blocks for each section
+in such songs, it makes sense to have separate top-level harmony blocks for each section
 of the song. A good example is the first song I attempted to transcribe for Tonality Composer,
 [Unite Synchronize](https://github.com/eqdw/tonality/blob/master/songs/unite_synchronize.ton),
-which as of the time of writing this README, is in-progress with top-level polyphony
+which as of the time of writing this README, is in-progress with top-level harmony
 blocks defined for each of the following sections:
 
 { Unite } // The first half of the song
@@ -153,7 +153,7 @@ blocks defined for each of the following sections:
 ----
 
 However, if you were transcribing a piece written for a single guitar, you may instead elect to
-write the song as a single voice melody, and use polyphony blocks for each chord individually:
+write the song as a single voice melody, and use harmony blocks for each chord individually:
 
 ```
 { Radical Dreamers: Unstealable Jewel (Fourth Bar) }
