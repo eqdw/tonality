@@ -70,7 +70,7 @@ default, you can include the empty note `O`. This note has no sound or duration,
 
 ### Multiple Voices
 
-To play multiple tones simultaneously, a harmony block is used, with the syntax `[ / ]`.
+To play multiple tones simultaneously, a polyphony block is used, with the syntax `[ / ]`.
 The square brackets denote the presence of parallel voices, and the `/` separates each.
 This can be arbitrarily nested, which is useful for things like pianos, guitars, and any other instrument
 that can play chords. For example, consider a piano piece where the right hand plays a melody, and the left
@@ -112,7 +112,7 @@ the longer parallel voice is still playing. This is almost certainly not what yo
 There are multiple ways to score the same voices playing the same rhythms and tones, and Tonality Composer
 does not mandate a 'correct' way to do it. In my experience, I have found that trying to match
 the organizational layout of standard sheet music is usually preferable. So, if you were trying to transcribe
-a concert band piece, you might create a top-level harmony block and have one section for each voice:
+a concert band piece, you might create a top-level polyphony block and have one section for each voice:
 
 ```
 { Some Concert Band Piece}
@@ -136,12 +136,12 @@ a concert band piece, you might create a top-level harmony block and have one se
 ```
 
 I have found it useful, for pieces with many voices, to separate the piece into sections
-for organizational purposes. If one uses one giantic top-level harmony block, it can be difficult
+for organizational purposes. If one uses one giantic top-level polyphony block, it can be difficult
 to ensure that all of the voices stay synchronized and no typos are made. I have found that
-in such songs, it makes sense to have separate top-level harmony blocks for each section
+in such songs, it makes sense to have separate top-level polyphony blocks for each section
 of the song. A good example is the first song I attempted to transcribe for Tonality Composer,
 [Unite Synchronize](https://github.com/eqdw/tonality/blob/master/songs/unite_synchronize.ton),
-which as of the time of writing this README, is in-progress with top-level harmony
+which as of the time of writing this README, is in-progress with top-level polyphony
 blocks defined for each of the following sections:
 
 { Unite } // The first half of the song
@@ -153,7 +153,7 @@ blocks defined for each of the following sections:
 ----
 
 However, if you were transcribing a piece written for a single guitar, you may instead elect to
-write the song as a single voice melody, and use harmony blocks for each chord individually:
+write the song as a single voice melody, and use polyphony blocks for each chord individually:
 
 ```
 { Radical Dreamers: Unstealable Jewel (Fourth Bar) }
