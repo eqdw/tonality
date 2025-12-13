@@ -1,0 +1,122 @@
+{ Unite Synchronization }
+{ https://homestuck.bandcamp.com/track/unite-synchronization }
+
+T(4=138)
+K(AbBbEb)
+
+{ Unite }
+
+[ {RH}
+
+G'8 C D E G, C D E G, C D E A, C D E
+E, B' D E E, B' D E E, B' D E A, C D E O
+G'8 C D E G, C D E G, C D E A, C D E
+E, B' D E E, B' D E E, B' D E A, C D E
+
+/ {LH}
+
+R1 R1
+R1 R1
+
+[ G''1. A2 G1. A2 / E''1. C2 B1. E2]
+
+]
+
+{ Begin }
+
+[ {RH}
+ O G'8 C D E G, C D E G C, D E A, C D E 
+   E,8 B' D E E, B' D E G C, D E A, C D E
+ O G'8 C D E G, C D E G C, D E A, C D E 
+   E,8 B' D E E, B' D E G C, D E A, C D E
+
+/ {LH}
+  [ 
+    O G,4 G4. G8 G4 G2 R2
+      E4 E4. E8 E4 A,2 A2
+    O G,4 G4. G8 G4 G2 R2
+      E4 E4. E8 E4 A,2 R2
+  / O C,4 C4. C8 C4 C2 A2
+      B4 B4. B8 B4 E,2 R2
+    O C,4 C4. C8 C4 C2 A2
+      B4 B4. B8 B4 E,2 R2
+  ] 
+]
+
+{ Verse }
+
+[ {RH}
+  O E'2 C2 G4 B E F E2 B2 G2 F2
+    E'2 C2 G4 B E F G2 E2 G2 B2
+  O E'2 C2 G4 B E F E2 B2 G2 F2
+    E'2 C2 G4 B E F G2 E2 G2 B2
+/ {LH}
+
+  O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+  O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+    C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
+]
+
+{ Section C }
+
+[ {RH}
+  O C'1 R1 R1 R1
+    R1 R1 R1 R1
+  O C'2. D4 E4. F8 G2 B2 G4 F4 G2 E4 D4
+    [
+      G2 C4 D C B G F G B E F G2 F2
+    /
+      R2 C,4 D E D C B C D E F G2 F2
+    ]
+
+/ {LH}
+  [
+    O C8. C8. C16 C16 C1 A8. A8. A16 A16 
+      E8. E8. E16 E16 E1 A8. A8. A16 A16
+    O C8. C8. C16 C16 C1 A8. A8. A16 A16 
+      E8. E8. E16 E16 E1 A8. A8. A16 A16  
+    O C8. C8. C16 C16 C1 A8. A8. A16 A16 
+      E8. E8. E16 E16 E1 A8. A8. A16 A16  
+    O C8. C8. C16 C16 C1 A8. A8. A16 A16 
+      E8. E8. E16 E16 E1 A8. A8. A16 A16  
+  / O G8. G8. G16 G16 G1 E8. E8. E16 E16
+      B8. B8. B16 B16 B1 E8. E8. E16 E16
+    O G8. G8. G16 G16 G1 E8. E8. E16 E16
+      B8. B8. B16 B16 B1 E8. E8. E16 E16
+    O G8. G8. G16 G16 G1 E8. E8. E16 E16
+      B8. B8. B16 B16 B1 E8. E8. E16 E16
+    O G8. G8. G16 G16 G1 E8. E8. E16 E16
+      B8. B8. B16 B16 B1 E8. E8. E16 E16
+  ]
+]
+
+{ Section D }
+
+[ {RH}
+  [  O E''2 C2 E,4 F E' F E2 B2 E,2 D2
+    O E''2 C2 E,4 F E' F G2 E2 G2 B2 C1
+  / 
+    O G'2 E2 G,4 B E F G2 B,2 G2 F2 
+    O G'2 E2 G,4 B E F G2 E2 G2 B2 C1
+  ]
+/ {LH}
+  [
+    O C,8. C8. C16 C16 C8 C D E G C, D E A, C D E
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+    O C,8. C8. C16 C16 C8 C D E G C, D E A, C D E
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+    C1
+  /
+    O G,8. G8. G16 G16 G2 R2 E8. E8. E8
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+    O G,8. G8. G16 G16 G2 R2 E8. E8. E8
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+    R1.
+  ]
+]
+
