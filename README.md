@@ -2,9 +2,9 @@
 My various songs I've transcribed to be played in Tonality Composer
 
 
-Tonality Composer is a simple chiptune writing library that someone I know
-has written a basic browser app for. I'm not sure if s/he's willing to
-release it publicly, so you'll have to take my word for it
+[Tonality Composer](https://github.com/eqdw/tonality-alpha) is a simple chiptune writing library that
+someone I know has created.
+
 
 ## Tonality Composer Basic Syntax
 
