@@ -165,6 +165,7 @@ T(4=75)
 K(F#C#)
 
 E,,16 E' A B E B A E [E,2 / G#2 / B2 ]
+```
 
 
 ### Rhythms
@@ -178,6 +179,7 @@ Tonality Composer.
 I have found it effective to write my code such that each line is either two or four bars of the sheet
 music, depending on what makes sense in context. Further, I have found that it is useful to vertically
 justify the notes, to make it clear when a given rhythm repeats on a voice. For example:
+
 
 ```
 { Unite Synchronization (First Eight Bars, Right Hand }
