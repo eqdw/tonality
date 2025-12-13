@@ -131,9 +131,9 @@ a concert band piece, you might create a top-level polyphony block and have one 
 
 / { Euphonia }
 
-/ { Oboes (the mortal enemy of us Flautists) }
+{/  No Oboes, this is a Flautist Minecraft server
 
-/ { etc }
+} / { etc }
 
 ]
 
