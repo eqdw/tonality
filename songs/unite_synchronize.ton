@@ -144,6 +144,50 @@ O, A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 C
      F,8 F A16 F A C F,8 F16 F A F A C R16 C F,8. F8. F8. A16 B C8.
      A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 A
      C16 C B C8. C16 C B C8. B8 C B8. G. E. C. B A16 R16
-
-
 ]
+
+{ Sec G }
+
+[ { RH }
+  [ 
+   O E''2 C2 E,4 F E' F E2 B2 E,2 D2
+   O E''2 C2 E,4 F E' F G2 E2 G2 B2
+   O E''2 C2 E,4 F E' F E2 B2 E,2 D2
+   O E''2 C2 E,4 F E' F G2 E2 G2 B2
+   C1
+  / 
+   O G'2 E2 G,4 B E F G2 B,2 G2 F2 
+   O G'2 E2 G,4 B E F G2 E2 G2 B2 
+   O G'2 E2 G,4 B E F G2 B,2 G2 F2 
+   O G'2 E2 G,4 B E F G2 E2 G2 B2 
+   C1
+  ]
+
+/ { LH }
+  R1 R1
+  [
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+    O C,8. C8. C16 C16 C8 C D E G C, D E A, C D E
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+    O C,8. C8. C16 C16 C8 C D E G C, D E A, C D E
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+    O C,8. C8. C16 C16 C8 C D E G C, D E A, C D E
+    O E,8. E8. E16 E16 E2 O G,8 C, D E A, C D E
+      C8. C8. C16 C16 C2
+  /
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+    O G,8. G8. G16 G16 G2 R2 E8. E8. E8
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+    O G,8. G8. G16 G16 G2 R2 E8. E8. E8
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+    O G,8. G8. G16 G16 G2 R2 E8. E8. E8
+    O B,,8. B8. B16 B16 B8 C'' D E R2 E,,8. E8. E8
+      G8. G8. G16 G16 G2
+  ]
+]
+
+{ Ending }
+
+  O C8 G A B C G A C1
+
+
