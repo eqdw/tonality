@@ -1,0 +1,76 @@
+{ The Place I'll Return To Someday }
+{ https://musescore.com/xiaomigros/the-place-ill-return-to-someday-ffix }
+
+T(4=140)
+
+[ { Soprano }
+  O' D4. E8 F4 G A2. B8 C B4 A G. A8 F4 E D C 
+  D4. E8 F4 G A2. B8 C B4 A A G# A2. R4 O' |
+  D4. E8 F4 G A2. B8 C B4 A G. A8 F4 E D C 
+  F4. F8 G F E D C4 A' E. G8 F4 E E E D2. R4
+  D'2 A4 D C. B8 A4 G A F8 G A4 B C2 C4 R4
+  D2  A4 D C. B8 A4 G F A E D8 C# D2 D4 R4 O' |
+  D'2 A4 D C. B8 A4 G A F8 G A4 B C2 C4 R4
+  D2  A4 D C. B8 A4 G F A E D8 C# D2. R4 O' |
+  O' D4. E8 F4 G A2. B8 C B4 A G. A8 F4 E D C 
+  D4. E8 F4 G A2. B8 C B4 A A G# A2. R4 O' |
+  D4. E8 F4 G A2. B8 C B4 A G. A8 F4 E D C 
+  F4. F8 G F E D C4 A' E. G8 F4 E E E D2. R4
+  D'2 A4 D C. B8 A4 G A F8 G A4 B C2 C4 R4
+  D2  A4 D C. B8 A4 G F A E D8 C# D2 D4 R4 O' |
+  D'2 A4 D C. B8 A4 G A F8 G A4 B C2 C4 R4
+  D2  A4 D C. B8 A4 G F A E D8 C# D2. R4 O' |
+/ { Alto }
+  R2 D4 C R8 C D E F4 D8 E D4 C B D2 C4 A2
+  R2 C2 D2 C4 D8 C B4 C D E C D E2
+  R2 D4 C R8 C D E F4 D8 E D4 C B D2 C4 A2
+  A4 C D B A A C B A C2 C#4 B A2 R4 O |
+  D2 C4 D C D2 B4 C D2 E4 C2 E4 R4
+  D2 C4 D C D2 B4 C D B2 A2 A4 R4
+  D2 C4 D C D2 B4 C D2 E4 C2 E4 R4
+  D2 C4 D C D2 B4 C D B2 A2. R4
+  R2 D4 C R8 C D E F4 D8 E D4 C B D2 C4 A2
+  R2 C2 D2 C4 D8 C B4 C D E C D E2
+  R2 D4 C R8 C D E F4 D8 E D4 C B D2 C4 A2
+  A4 C D B A A C B A C2 C#4 B A2 R4 O |
+  D2 C4 D C D2 B4 C D2 E4 C2 E4 R4
+  D2 C4 D C D2 B4 C D B2 A2 A4 R4
+  D2 C4 D C D2 B4 C D2 E4 C2 E4 R4
+  D2 C4 D C D2 B4 C D B2 A2. R4
+/ { Tenor }
+  O R2 A4 G A2 C4 B8 C B4 A G A2. F2
+  A2. G4 A4. F8 A4 G8 A G4 A2 B4 A A8 B C#2 O |
+  R2 A4 G A2 C4 B8 C B4 A G A2. F2
+  F4 A B G F F A G F A G A A A8 G F#4 R4 O | 
+  A2 A4 A A2 A4 G A2 A4 G# A2 A4 R4 O | 
+  A2 A4 A A2 A4 G A2 G4 A8 G A2 A4 R4
+  A2 A4 A A2 A4 G A2 A4 G#4 A2 A4 R4 O | 
+  A2 A4 A A2 A4 G A2 G4 A8 G A2. R4
+  O R2 A4 G A2 C4 B8 C B4 A G A2. F2
+  A2. G4 A4. F8 A4 G8 A G4 A2 B4 A A8 B C#2 O |
+  R2 A4 G A2 C4 B8 C B4 A G A2. F2
+  F4 A B G F F A G F A G A A A8 G F#4 R4 O | 
+  A2 A4 A A2 A4 G A2 A4 G# A2 A4 R4 O |
+  A2 A4 A A2 A4 G A2 G4 A8 G A2 A4 R4
+  A2 A4 A A2 A4 G A2 A4 G#4 A2 A4 R4 O | 
+  A2 A4 A A2 A4 G A2 G4 A8 G A2. R4
+
+/ { Bass } 
+  O, R2 D4 E D2 A'4 G E E2 D1 R4
+     D2. E4 D2. E4 E2 D4 E2 F8 G A2
+     R2 D,4 E D2 A'4 G E E2 D1 R4
+     D2 E R4 D E2 D4 E2 E4 D2. R4
+     D2 E4 F E F D2 F2 D4 E E2 C4 R4
+     D2 E4 F E F D2 F4 D E E D2 D4 R4
+     D2 E4 F E F D2 F2 D4 E E2 C4 R4
+     D2 E4 F E F D2 F4 D E E D2. R4
+  O, R2 D4 E D2 A'4 G E E2 D1 R4
+     D2. E4 D2. E4 E2 D4 E2 F8 G A2
+     R2 D,4 E D2 A'4 G E E2 D1 R4
+     D2 E R4 D E2 D4 E2 E4 D2. R4
+     D2 E4 F E F D2 F2 D4 E E2 C4 R4
+     D2 E4 F E F D2 F4 D E E D2 D4 R4
+     D2 E4 F E F D2 F2 D4 E E2 C4 R4
+     D2 E4 F E F D2 F4 D E E D2. R4
+
+]
