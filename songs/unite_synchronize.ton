@@ -121,3 +121,29 @@ R1 R1
   ]
 ]
 
+{ Drum Bridge }
+
+R1 R1
+
+{ Synchronize }
+
+O, A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 C
+   F,8 F A16 F A C F,8 F16 F A F A C R16 C F,8. F8. F8. A16 B C8.
+   A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 A
+   C16 C B C8. C16 C B C8. B8 C B8. G. E. C. B A16 R16
+
+{ RH comes in }
+
+[ { RH }
+  O E'8 A,16 D8 A,16 E'8 A,16 F'8 A,16 E'8 D E8 A,16 D8 A,16 E'8 A,16 G'8 A,16 E'8 D
+    C8 F,16 B8 F16 A8. G8. A B C F,16 B8 F16 C'8 F,16 D'8. E D
+    E8 A,16 D8 A,16 E'8 A,16 F'8 A,16 E'8 D E8 A,16 D8 A,16 E'8 A,16 G'8 A,16 E'8 D
+    G C,16 F8 C16 G'8 C,16 B'8. G F
+/ { LH }
+  O, A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 C
+     F,8 F A16 F A C F,8 F16 F A F A C R16 C F,8. F8. F8. A16 B C8.
+     A8. A16 C A C E8 E16 A,8 A C B. B16 D B D F8 F16 B,8 B B16 A
+     C16 C B C8. C16 C B C8. B8 C B8. G. E. C. B A16 R16
+
+
+]
