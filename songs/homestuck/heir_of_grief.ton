@@ -1,0 +1,81 @@
+{ Heir of Grief }
+{ Joren "Tensei" de Bruin }
+{ https://homestuck.net/music/sheetmusic/collide/Heir%20of%20Grief.pdf }
+
+T(4=180)
+
+O,
+
+A C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+F, A E' F, A8 F E'4 F, A8 F E'4 F, A8 F E'4 
+D, F8 D C'4 D, F8 D C'4 E, G8 E D'4 E, G8 E D'4 
+A C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+A, C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+F, A E' F, A8 F E'4 F, A8 F E'4 F, A8 F E'4 
+D, F8 D C'4 D, F8 D C'4 E, G8 E D'4 E, G8 E D'4 
+A C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+
+
+[ {RH} 
+  O,
+  A C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+  F, A E' F, A8 F E'4 F, A8 F E'4 F, A8 F E'4 
+  D, F8 D C'4 D, F8 D C'4 E, G8 E D'4 E, G8 E D'4 
+  A C G' A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+/ {LH}
+  O,
+  [
+    A,4 A A A A A A A A A A A
+    F   F F F F F F F F F F F
+    D   D D D D D E E E E E E
+    A   A A A A A A A A A8 A A A A A
+  /
+    A4  A A A A A A A A A A A 
+    F   F F F F F F F F F F F
+    D   D D D D D E E E E E E
+    A   A A A A A A A A A8 A A A A A 
+  ]
+]
+
+[ {RH} 
+  O
+  A4  C8 A G'4 A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+  A, C8 A G'4 A, C8 A G'4 A, C8 A G'4 A, C8 A G'4 
+  [
+    O
+    A  C8 A G'4 A, C8 A G'4 A, C8 A G'4 A, C8 A G'4
+    A, C8 A G'4 A, C8 A G'4 A, C8 A G'4 A, C8 A G'4 
+  /
+    E4 A8 E B'4 E, A8 E B'4 E, A8 E B'4 B8 C B A B4
+    E, A8 E B'4 E, A8 E B'4 E, A8 E B'4 E, A8 E B'4
+
+  ]
+/ {LH}
+  O,
+  [
+    A,8 A A A A A A2. F8 F F F F F F2.
+    G8  G G G G G G2. D8 D D D D D D2. 
+    F8  F F F F F F2. G8 G G G G G G2. 
+    A8  A A A A A A2. A8 A A A A A A2. 
+  /
+    E,8 E E E E E E2. C8 C C C C C C2.
+    D8  D D D D D D2. A8 A A A A A A2.
+    C8  C C C C C C2. D8 D D D D D D2. 
+    E8  E E E E E E2. E8 E E E E E E2.
+  /
+    A8  A A A A A A2. F8 F F F F F F2.
+    G8  G G G G G G2. D8 D D D D D D2. 
+    F8  F F F F F F2. G8 G G G G G G2. 
+    A8  A A A A A A2. A8 A A A A A A2. 
+  ]
+]
+
+[ {RH}
+  O'
+  C2 C4 B C E A,2.~ A4. A8 C E A2 A4 G A D, F E D E2 D4
+  C2 C4 B C E A,2.~ A4. A8 C D C2 C4 B A G A2.~ A2.
+/ {LH}
+  O
+  R4 E C A E' C F, E' C F, E' C B2 A4 B C D D,2 A'4 G2 E4
+  F E' C F, E' C G D' B G D' B F, E' C G D' B A E' C A E' C
+]
