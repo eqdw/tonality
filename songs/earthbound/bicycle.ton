@@ -4,6 +4,44 @@
 K(Bb)
 T(4=181)
 
+{ Perc Intro (TODO) }
+R1 R1
+
+O4
 G' F# F@ F# G F#6 F@12 R2 G4 G6 G12 A4 F G2 R2
-B@4 B6 B12 C4 A B2 R2 | E4 R2 F4 G R2 A4 G. R16 F16 E4 D E2 R2
-E4 R2 F4 G R2 A4 B@ R8. A16 G4 F# E2 | R4 B@' D R8. C16 B4 C D2 G,2
+
+{ Second Whistle Enters }
+[
+  B@4 B6 B12 C4 A B2 R2 | 
+/
+  G4 G6 G12 A4 F G2 R2 
+]
+
+{ One Whistle + 2 Accordion }
+[ {Whistle}
+  O'
+  E4 R2 F4 G R2 A4 G. R16 F16 E4 D E2 R2
+  E4 R2 F4 G R2 A4 B@ R8. A16 G4 F# E2 | R4 B@'
+  D R8. C16 B4 C D2 G,2
+  E4 R2 F4 G R2 A4 G. R16 F16 E4 D E2 R2
+  E4 R2 F4 G R2 A4 B@ R8. A16 G4 F# E2 | R4 B@'
+  D R8. C16 B4 C D2 G,2
+/ {Acc1}
+  O
+  G4 R2 A4 G R2 A4 G2 R2 G4 R2. 
+  G4 R2 A4 G4 R2 A4 F# R2 F4 | G2 R2
+  F#4. R16 F16 F4 F | G2 G2
+  G4 R2 A4 G R2 A4 G2 R2 G4 R2. 
+  G4 R2 A4 G4 R2 A4 F# R2 F4 | G2 R2
+  F#4. R16 F16 F4 F | G2 G2
+/ {Acc2}
+  O
+  E,4 R2 F4 E R2 F4 E R2. E4 R2. 
+  E4  R2 F4 E R2 F4 Eb R2 E4 | E4 R2.
+  D4 R8. D16 D4 D D R D2
+  E4 R2 F4 E R2 F4 E R2. E4 R2. 
+  E4  R2 F4 E R2 F4 Eb R2 E4 | E4 R2.
+  D4 R8. D16 D4 D D R D2
+]
+
+
