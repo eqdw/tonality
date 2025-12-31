@@ -32,7 +32,6 @@ R1 R1
    E,8 B' D E E, B' D E G C, D E A, C D E
 
 / {LH}
-  $q
   [ 
     O G,4 G4. G8 G4 G2 R2
       E4 E4. E8 E4 A,2 A2
@@ -48,13 +47,11 @@ R1 R1
 { Verse }
 
 [ {RH}
-  $t
   O E'2 C2 G4 B E F E2 B2 G2 F2
     E'2 C2 G4 B E F G2 E2 G2 B2
   O E'2 C2 G4 B E F E2 B2 G2 F2
     E'2 C2 G4 B E F G2 E2 G2 B2
 / {LH}
-  $q
   O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
     C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
     O C,4 G'8 C,16 G'8 G8 C,16 G'4 C,8 C8 G'8 C,16 G'8 G8 C,16 G'8 C,16 G'16
