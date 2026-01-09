@@ -1,0 +1,144 @@
+{ Beatdown DX - Curt Blakeslee }
+{ https://musescore.com/rose-egbert/beatdown-dx }
+
+T(4=128)
+K(AbBbDbEbGb)
+
+
+{ intro }
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+
+{ A }
+[ { Main }
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+  O' B16 R16 B'16 F16 B,16 A'16 E16 R F R Fb R E R F@16 A
+/ { Bassline }
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, G16 G G' G G, G G' G G, G G' G D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+
+
+/ { Perc }
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 R4 X16 R16 R8 R4 
+  X16 R16 R8 X16 R16 R8 X16 R16 R8 X16 R16 R8 
+  X16 R16 R8 X16 R16 X16 R16 X16 X X X X X X X
+]
+
+{ B }
+[ { Main }
+  O' B16 R16 B'16 F16 R16 A16 E16 R F R Fb R E R F@16 A~
+  A16 F8.~ F4 G8 F16 E D C A@8 | 
+  B4 D E16 F E C F Fb E C |
+  A'2 G16 F E D C B A A@ |
+  O' B16 R16 B'16 F16 R16 A16 E16 R F R Fb R E R F@16 A~
+  A16 F8.~ F4 G8 F16 E D C A@8 | 
+  B4 D E16 F E C F Fb E C |
+  A@16 B C E F A C D B Ab F E D B Ab A@ |
+  O'' B16 R16 D A R B F8~ F4 B16 A F E
+  F16 R A E R F D8~ D4 F16 Fb E A@, |
+  B16 R B R D B R B B R B R D4
+  C16 R C R E C R C C R C R C'4
+  D16 R C B R C F,8~ F4 D'16 C B C
+  E16 R D C R D F,8~ F4 C'4
+  D2 C
+  B A@ |
+  
+/ { Bassline }
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, G16 G G' G G, G G' G G, G G' G D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+  O,, B16 B B' B B, B B' B B, B B' B D, D D' D
+  O,, E16 E E' E E, E E' E E, E E' E F, F F' F
+  O,, G16 G G' G G, G G' G G, G G' G D, D D' D
+  O,, C16 C C' C C, C C' C C, C C' C D, D D' D
+/ { Perc }
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+  X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 R16 X16 X
+]
+
+{ C }
+[ { Main }
+  O' B16 R16 B'16 F16 R16 A16 E16 R F R Fb R E R F@16 A~
+  A16 F8.~ F4 G8 F16 E D C A@8 | 
+  B4 D E16 F E C F Fb E C |
+  A'2 G16 F E D C B A A@ |
+  O' B16 R16 B'16 F16 R16 A16 E16 R F R Fb R E R F@16 A~
+  A16 F8.~ F4 G8 F16 E D C A@8 | 
+  B4 D E16 F E C F Fb E C |
+  A@16 B C E F A C D B Ab F E D B Ab A@ |
+
+  O'' B16 R16 D A R B F8~ F4 B16 A F E
+  F16 R A E R F D8~ D4 F16 Fb E A@, |
+  B16 R B R D B R B B R B R D4
+  C16 R C R E C R C C R C R C'4
+  D16 R C B R C F,8~ F4 D'16 C B C
+  E16 R D C R D F,8~ F4 C'4
+  D2 C
+  B A@ |
+/ { Bassline } 
+  O,, B16 B B' B B, B B' B B, B B' B C, C C' C
+  O,, D16 D D' D D, D D' D D, D D' D D@, D D' D |
+  O,, E16 E E' E E, E E' E E, E E' E E@, E E' E |
+  O,, F16 F F' F F, F F' F F, F F' F D, D D' D
+  O,, B16 B B' B B, B B' B B, B B' B C, C C' C
+  O,, D16 D D' D D, D D' D D, D D' D D@, D D' D |
+  O,, E16 E E' E E, E E' E E, E E' E E@, E E' E |
+  O,, F16 F F' F F, F F' F F, F F' F A, A A' A
+
+  O,, B16 B B' B B, B B' B B, B B' B C, C C' C
+  O,, D16 D D' D D, D D' D D, D D' D D@, D D' D |
+  O,, E16 E E' E E, E E' E E, E E' E E@, E E' E |
+  O,, F16 F F' F F, F F' F F, F F' F D, D D' D
+  O,, B16 B B' B B, B B' B B, B B' B C, C C' C
+  O,, D16 D D' D D, D D' D D, D D' D D@, D D' D |
+  O,, E16 E E' E E, E E' E E, E E' E E@, E E' E |
+  O,, F16 F F' F F, F F' F F, F F' F A, A A' A
+]
