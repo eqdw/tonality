@@ -1,0 +1,221 @@
+{ Radical Dreamers - Yasunori Mitsuda }
+{ https://musescore.com/user/38113727/scores/6738643 }
+
+{
+  Let us open the door to the great unknown,
+  Come across another reality,
+  And live another today...
+  Even when the story has been told,
+  Life goes on...
+
+  Until we meet again,
+  Take care of yourself, my friend...
+}
+
+T(4=75)
+K(C#F#)
+
+[ { Melody }
+  $s
+  O
+  R1 R1 R1 R1 R1 R1 R1 R1
+
+  R16 R8 A'16 F' G8 A E D C. 
+  C8 B16 F'2.~ F16
+  R16 R8 A,16 F' G8 A E D C. 
+  E. B. F'4~ F16 G32~ F E4
+  R16 R8 A,16 F' G8 A E D C.
+  C8 B16 F'2~ F16 D~ E F D~
+  D4 D16~ E F E4~ E16 E8 D16 C~
+  C2. R4
+
+  { Repeat Begins }
+
+  R16 R8 A,16 F' G8 A E D C.
+  C8 B16 F'2.~ F16
+  R16 R8 A,16 F' G8 A [E / B] [D, / F] [C. / E.]
+  E. B. F'4~ F16 G32~ F E4 
+  R16 R8 A,16 F' G8 A E D C.
+  C8 B16 F'2~ F16 D~ E F D~
+  D4 D16~ E F E4~ E16 E8 D16 C~
+  C2. R4
+
+  B8. F'4~ F16 E8. A4~ A16
+  F8. C. C D C D4
+  B8. F'4~ F16 E8. A4~ A16
+  F8. C'. B2~ B8
+
+  { First Repeat Ending }
+  
+  B,8. F'4~ F16 E8. A4~ A16
+  F8. C. C D C D B16~ C
+  D8. D. F16 E2~ E16 
+  R4 R2 D8 C16 D~
+  D1
+  R1 R1 R1 R1 R1 R1 R1
+
+  { Second Repeat Begins }
+
+  R16 R8 A,16 F' G8 A E D C.
+  C8 B16 F'2.~ F16
+  R16 R8 A,16 F' G8 A [E / B] [D, / F] [C. / E.]
+  E. B. F'4~ F16 G32~ F E4 
+  R16 R8 A,16 F' G8 A E D C.
+  C8 B16 F'2~ F16 D~ E F D~
+  D4 D16~ E F E4~ E16 E8 D16 C~
+  C2. R4
+
+  B8. F'4~ F16 E8. A4~ A16
+  F8. C. C D C D4
+  B8. F'4~ F16 E8. A4~ A16
+  F8. C'. B2~ B8
+
+  { Second Repeat Ending }
+
+/ { Chords }
+  $p
+  O
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 E A B E B A E [E,2 / G#2 / B2] |
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 B8 E16 B F [B,2 / B2 / D#'2] |
+
+  { Melody Enters }
+
+  O
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 G8 B16 E, G R C F, B8 C16 F, A# |
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 F B F'8 C16 B F R F A# F'8 C16 A F |
+
+  { Repeat Begins }
+
+  O
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 G8 B16 E, G R C F, B8 C16 F, A# |
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 F B F'8 C16 B F R F A# F'8 C16 A F |
+
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 A8 B16 E, A R D F, B R C F, B
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 D16 B8 E16 B D R C A E E' A, C A
+
+  { First Repeat Ending } 
+
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 A8 B16 E, A R D F, B R C F, A
+  R8 D,16 A'8 B16 D, A' R8 E16 A E A D E
+  A1
+  R8 D,,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 E16 A B E B A E [G#2 / B'2 / E'2]
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 F B E8 F,16 B E [F,2 / B2 / D#2] |
+
+  { Second Repeat Begins }
+
+  O
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 G8 B16 E, G R C F, B8 C16 F, A# |
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 F B F'8 C16 B F R F A# F'8 C16 A F |
+
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 A8 B16 E, A R D F, B R C F, B
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 D16 B8 E16 B D R C A E E' A, C A
+
+  { Second Repeat Ending }
+
+/ { Bassline } 
+  $u
+  O
+  G,4 G A A
+  B B A A
+  G G A A
+  E2 E
+  G4 G A A
+  B B A A
+  G G A A 
+  B B B2
+
+  { Melody Enters }
+
+  G4 G A A
+  B B A A
+  G G A A
+  E E F F
+  G4 G A A
+  B B A A
+  G G A A
+  F F F F
+
+  { Repeat Begins }
+
+  G4 G A A
+  B B A A
+  G G A A
+  E E F F
+  G4 G A A
+  B B A A
+  G G A A
+  F F F F
+
+  G G A A
+  F F B A
+  G G A A 
+  B B A A
+
+  { First Repeat Ending }
+
+  G G A A
+  F F B A
+  G G A R
+  R1
+  G4 G A A 
+  B B A A
+  G G A A
+  E2 E4 E8 F
+  G4 G A A 
+  B B A A
+  G G A A
+  B2 B
+
+  { Second Repeat Begins }
+
+  G4 G A A
+  B B A A
+  G G A A
+  E E F F
+  G4 G A A
+  B B A A
+  G G A A
+  F F F F
+
+  G G A A
+  F F B A
+  G G A A 
+  B B A A
+
+  { Second Repeat Ending }
+]
