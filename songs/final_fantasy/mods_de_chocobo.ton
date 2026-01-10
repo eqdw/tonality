@@ -1,0 +1,191 @@
+{ Mods de Chocobo - Nobuo Uematsu }
+
+K(F#)
+T(4=160)
+
+O' A4 C4 F@4
+
+[ {1}
+  $p
+  R1 R1 R1 R1 R1 R1 R1 R1 R1 R1 R1 R1
+
+  R1 R1 R1 R1
+  O'' R4 [B4 / D4 / G4] R4 [A4 / C4 / F@4]
+  O'' R4 [C4 / G'4 / Bb4] R O'' [C4 / F@4 / A4] |
+  O'' R4 [B4 / D4 / G4] R4 [A4 / C4 / F@4] |
+  O'' [C1 / G'1]
+
+  R1 R1 R1 R1
+  O'' R4 [B4 / D4 / G4] R4 [A4 / C4 / F@4]
+  O'' R4 [C4 / G'4 / Bb4] R O'' [C4 / F@4 / A4] |
+  O'' R4 [B4 / D4 / G4] R4 [A4 / C4 / F@4] |
+  O'' [C1 / G'1]
+
+  { Bar 21 }
+
+  R1 R1 R1 R1
+  R1 R1 R1 R1
+  R1 R1 R1 R1
+  R1 R1 R1 R1
+  R1 R1 R1 R1
+  R1
+
+/ {2}
+  $q
+  R1 R1 R1 R1 R1 R1 R1 R1 R1 R1 R1 R1
+
+  O'
+  D4 B6 G12 E6 D'12 B6 G12
+  Bb4 G B4~ B6 A12 |
+  G6 D12 F@6 G12~ G2~ |
+  G2. R4
+  [D2 / G2] [C,2 / F@2]
+  [G2. / Bb2.] [F@4 / A4]
+  [D,2 / G2] [C,2 / F@2]
+  [C1 / G1]
+
+  O'
+  D4 B6 G12 E6 D'12 B6 G12
+  Bb4 G B4~ B6 A12 |
+  G6 D12 F@6 G12~ G2~ |
+  G2. R4
+  [D2 / G2] [C,2 / F@2]
+  [G2. / Bb2.] [F@4 / A4]
+  [D,2 / G2] [C,2 / F@2]
+  [C1 / G1] |
+
+  { Bar 21 }
+
+  O' E4 C6 A12 F6 A12 C6 E12
+  D6 G12 R6 D12~ D2~ 
+  D2. R6 B12 
+  C4 A6 F12 D6 F12 A6 C12
+  B6 D12 R6 B12~ B2~
+  B2. R4 
+  E4 C6 A12 F6 A12 C6 E12
+  D6 G12 R6 D12~ D2~
+  D2. R6 B12
+  A6 G12 A6 B12 C6 B12 A6 G12
+  A6 G12 R6 A12~ A4~ A6 G12
+  A6 G12 A6 B12 C6 B12 A6 G12
+  A6 B12 C6 B12 C6 D12 E6 F12
+  G1~
+  G1
+  
+  R1 R1
+  R1 R1 R1 R1
+
+  {Second Repeat}
+/ {3}
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [C6 / G'6] O, [C12 / G'12] R6 O, [C12~ C2 / F@12~ F@2]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [Bb4 / F@4] O, [Bb4 / F@4] O, [C4 / G'4] O, [C4 / G'4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4]
+
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [Bb4 / F@4] O, [Bb4 / F@4] O, [C4 / G'4] O, [C4 / G'4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] 
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4]
+
+  { Bar 21 }
+  O, [C4 / G'4] O, [C4 / G'4] O, [D4 / A'4] O, [D4 / A'4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [D4 / G'4] O, [D4 / G'4] O, [D4 / F@4] O, [D4 / F@4] | 
+  O, [C4 / G'4] O, [C4 / G'4] O, [D4 / A'4] O, [D4 / A'4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [D4 / G'4] O, [D4 / G'4] O, [D4 / F@4] O, [D4 / F@4] | 
+  O, [C4 / G'4] O, [C4 / G'4] O, [D4 / A'4] O, [D4 / A'4]
+  O, [D4 / G4] R6 O, [C12 / F@12] R4 O, [Bb4~ Bb1~ / F@4~ F@1 / Bb'4~ Bb1]
+  R4 O, [D,4 / A'4 / D4] R4 O, [C,4 / G'4 / C4]
+  R4 O, [D,4 / A'4 / D4] R4 O, [C,4 / G'4 / C4]
+  R4 O, [D,4 / A'4 / D4] R4 O, [C,4 / G'4 / C4]
+  R4 O, [D,4 / A'4 / D4] R4 O, [D,4 / A'4 / D4]
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [C4 / G'4] O, [C4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [D4 / G'4] O, [D4 / G'4] O, [C4 / F@4] O, [C4 / F@4] |
+  O, [C6 / G'6] O, [C12 / G'12] R6 O, [C12~ C2 / F@12~ F@2]
+
+  {Second Repeat}
+/ {4}
+  $u
+  O, 
+  R1
+  R1
+  R1
+  R2 R6 D,12 F@6 D12
+  G4 G F@ F@
+  C C F@6 D12 F@6 F#12
+  G4 G F@ F@
+  C6 C12 R6 F@12~ F@6 D12 F@6 F#12
+  R4 G R G R G R6 D12 F@4
+  R4 G R G R G R6 G12 G4
+
+  G G F@ F@
+  R1
+  G4 G F@ F@
+  G G F@ F@
+  G G F@ F@
+  C C F@6 D12 F@6 F#12
+  G4 G F@ F@
+  C6 C12 R6 F@12~ F@6 D12 F@6 F#12
+
+  G4 G F@ F@
+  R1
+  G4 G F@ F@
+  G G F@ F@
+  G G F@ F@
+  C C F@6 D12 F@6 F#12
+  G4 G F@ F@
+  C6 C12 R6 F@12~ F@6 D12 F@6 F#12
+
+  { Bar 21 }
+  C4 C A D
+  B B A6 B12 A4
+  G4 G F@6 G12 F4
+  C'4 C A D
+  B B C C
+  Bb B B@ B |
+  C C D A
+  G R6 F@12 R4 Bb4~ Bb1
+  R1
+  R1
+  R1
+  R4 R4 R6 D12 F@6 A12 |
+  G4 G F@ F
+  C C F@6 D12 F6 F#12
+  G4 G F@ F
+  C6 C12 R6 F@12~ F@6 D12 F@6 F#12
+  G4 G F@ F
+  C C F@6 D12 F6 F#12
+  G4 G F@ F | 
+  C6 C12 R6 F@12~ F@6 D12 F6 F#12
+
+  { Second Repeat }
+]
+
+
