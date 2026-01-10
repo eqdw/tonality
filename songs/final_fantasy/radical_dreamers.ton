@@ -56,7 +56,7 @@ K(C#F#)
 
   { Second Repeat Begins }
 
-  R16 R8 A,16 F' G8 A E D C.
+  R16 R8 A16 F' G8 A E D C.
   C8 B16 F'2.~ F16
   R16 R8 A,16 F' G8 A [E / B] [D, / F] [C. / E.]
   E. B. F'4~ F16 G32~ F E4 
@@ -71,6 +71,15 @@ K(C#F#)
   F8. C'. B2~ B8
 
   { Second Repeat Ending }
+
+  B,8. F'4~ F16 E8. A4~ A16
+  F8. C. C D C D4
+  B8. F'4~ F16 E8. D. C
+  B2. R4
+
+
+  
+  
 
 / { Chords }
   $p
@@ -109,7 +118,7 @@ K(C#F#)
   R16 F B F'8 C16 B F R F A# F'8 C16 A F |
 
   R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
-  R8 E16 A8 B16 E, A R D F, B R C F, B
+  R8 E16 A8 B16 E, A R D F, B R C F, A
   R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
   R8 D16 B8 E16 B D R C A E E' A, C A
 
@@ -141,12 +150,15 @@ K(C#F#)
   R16 F B F'8 C16 B F R F A# F'8 C16 A F |
 
   R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
-  R8 E16 A8 B16 E, A R D F, B R C F, B
+  R8 E16 A8 B16 E, A R D F, B R C F, A
   R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
   R8 D16 B8 E16 B D R C A E E' A, C A
 
   { Second Repeat Ending }
-
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 E16 A8 B16 E, A R D F, B R C F, A
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R16 E A B E B A E [G#2 / B'2 / E'2]
 / { Bassline } 
   $u
   O
@@ -218,4 +230,9 @@ K(C#F#)
   B B A A
 
   { Second Repeat Ending }
+
+  G G A A
+  F F B A
+  G G A A
+  E2 E2
 ]
