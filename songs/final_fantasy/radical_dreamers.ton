@@ -20,67 +20,121 @@ K(C#F#)
   O
   R1 R1 R1 R1 R1 R1 R1 R1
 
+  { Osanai te ni tsutsunda }
   R16 R8 A'16 F' G8 A E D C. 
   C8 B16 F'2.~ F16
+
+  { Furueteru sono hikari wo }
   R16 R8 A,16 F' G8 A E D C. 
   E. B. F'4~ F16 G32~ F E4
+
+  { Kokomade tadottekita } 
   R16 R8 A,16 F' G8 A E D C.
   C8 B16 F'2~ F16 D~ E F D~
+
+  { Jikan no fuchi wo samayoi }
   D4 D16~ E F E4~ E16 E8 D16 C~
   C2. R4
 
   { Repeat Begins }
 
+
+  { Sagashi tzuzukete kitayo }
   R16 R8 A16 F' G8 A E D C.
   C8 B16 F'2.~ F16
+
+  { Namae sae shiranaikeredo } 
   R16 R8 A,16 F' G8 A [E / B] [D, / F] [C. / E.]
   E. B. F'4~ F16 G32~ F E4 
+
+  { Tada hitotsu no omoi wo }
   R16 R8 A,16 F' G8 A E D C.
   C8 B16 F'2~ F16 D~ E F D~
+
+  { Anata ni tewatashitakute }
   D4 D16~ E F E4~ E16 E8 D16 C~
   C2. R4
 
+  { Toki wa ai mo itami mo }
   B8. F'4~ F16 E8. A4~ A16
   F8. C. C D C D4
+
+  { Fukaku dakitome }
   B8. F'4~ F16 E8. A4~ A16
   F8. C'. B2~ B8
 
   { First Repeat Ending }
   
+  { Keshite yukukedo watashi wa }
   B,8. F'4~ F16 E8. A4~ A16
   F8. C. C D C D B16~ C
+
+  { Oboeteiru }
   D8. D. F16 E2~ E16 
   R4 R2 D8 C16 D~
+ 
+  { Forever }
   D1
   R1 R1 R1 R1 R1 R1 R1
 
   { Second Repeat Begins }
 
+
+  { Watashi no mune no oku ni }
   R16 R8 A16 F' G8 A E D C.
   C8 B16 F'2.~ F16
+
+  { Itsukaraka hibiite ita }
   R16 R8 A,16 F' G8 A [E / B] [D, / F] [C. / E.]
   E. B. F'4~ F16 G32~ F E4 
+
+  { Yotsuyu no shizuku yori mo }
   R16 R8 A,16 F' G8 A E D C.
   C8 B16 F'2~ F16 D~ E F D~
+
+  { Kasukana sasayakidakedo }
   D4 D16~ E F E4~ E16 E8 D16 C~
   C2. R4
 
+  { May this prayer I spin }
   B8. F'4~ F16 E8. A4~ A16
   F8. C. C D C D4
+
+  { Weave through the darkness of the frozen stars }
   B8. F'4~ F16 E8. A4~ A16
   F8. C'. B2~ B8
 
   { Second Repeat Ending }
 
+  { And reach the skies above you, }
   B,8. F'4~ F16 E8. A4~ A16
   F8. C. C D C D4
+
+  { So far away. } 
   B8. F'4~ F16 E8. D. C
   B2. R4
 
-
+  { Ending Pads }
   
+  R1 R1 R1 R1
   
+  { Pads Enter }
 
+  [A2. / D2.] [A4 / D4 / E4]
+  [D2 / F2] [ D4 C / E2]
+  [B2 / D2] [G,2 / D2 / G2]
+  [E2 D2 / F1]
+  [A,2. / D2.] [A4 / D4 / E4]
+  [D2 / F2] [ D4 C / E2]
+
+  O [D1~ D1 / A'1~ A1 / E'1~ E / A''1~ A1]
+  O [A'2 B2 / C'1 / F'1] 
+  O [A'2 / F'2 ] [D4 C / E2]
+  O [D2. / A'2. / D'2. / A''2.] O [D4 / A'4 / D'4 / G''4]
+  O [B'1 / E'1]
+
+  R1 R1 R1 R1
+  R1 R1 
 / { Chords }
   $p
   O
@@ -155,13 +209,57 @@ K(C#F#)
   R8 D16 B8 E16 B D R C A E E' A, C A
 
   { Second Repeat Ending }
+
   R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
   R8 E16 A8 B16 E, A R D F, B R C F, A
   R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
   R16 E A B E B A E [G#2 / B'2 / E'2]
+
+  { Ending Pads }
+
+  R16 F,16 B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D F8 D16 A D, R E A D8 C16 A E
+  R16 F B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D B8 E16 A, D R B~ C A8 E'16 B~ C
+
+  { Pads Enter }
+
+  R16 F,16 B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D F8 D16 A D, R E A D8 C16 A E
+  R16 F B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D B8 E16 A, D R B~ C A8 E'16 B~ C
+  R16 F,16 B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D F8 D16 A D, R E A D8 C16 A E
+  R16 F B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D B8 E16 A, D R B~ C A8 E'16 B~ C
+  R16 F,16 B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D F8 D16 A D, R E A D8 C16 A E
+  R16 F B F'8 D16 B F R F G F'8 D16 G, F
+  R16 A D B8 E16 A, D R B~ C A8 E'16 B~ C
+
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 D'8 E16 F, B R C F, B8 C16 F, B
+  R8 D,16 A'8 B16 D, A' R8 E16 A8 B16 E, A
+  R8 F16 F'8 D16 F, B R C F, F'8 C16 A F
+  R8 D16 A'8 B16 D, A' R E A B E B A E
+
+  O [B,1~ B32~ B32~ B64 / R64 F,1~ F32~ F32~ / R32 B1~ B32~ B64 / R64 R32 R32 D#1]
+
+
 / { Bassline } 
+  { 
+    Note: Octave-shifted down one from piano sheet music
+    because $u sounds like a bass guitar when it's low
+    and in voicing this chiptune like a three-parter
+    (flute $s, guitar $p, bass $u) instead of like a piano piece
+    (all parts the same waveform), I need to be lower both
+    to be more distinctively a separate part, and because $u
+    sounds better at lower pitches
+  }
   $u
-  O
+  O,  
   G,4 G A A
   B B A A
   G G A A
@@ -235,4 +333,39 @@ K(C#F#)
   F F B A
   G G A A
   E2 E2
+
+  { Ending Pads }
+
+  B'4 B G G
+  D' D A A
+  B B G G
+  A A A A
+
+  { Pads Enter }
+
+  B4 B G G
+  D' D A A
+  B B G G
+  A A A A
+
+  B4 B G G
+  D' D A A
+  B B G G
+  A A A A
+  B4 B G G
+  D' D A A
+  B B G G
+  A A A A
+  G G A A
+  B B A A
+  G G A A
+  B B A A
+  G G A A 
+  B B A A
+  G G A2
+  R1
+
+  
+
+
 ]
